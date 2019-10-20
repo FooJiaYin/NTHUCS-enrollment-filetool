@@ -1,5 +1,8 @@
 # 審查資料分類工具操作說明
 
+## 功能
+將檔案重命名並根據審查人員編號分類。
+
 ## 檔案
 1. filename.xlsx
 2. file_operation.bat
