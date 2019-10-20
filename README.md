@@ -24,4 +24,7 @@
 
 儲存並關閉。
 
-4. 雙點`file_operation.bat`，程式就會執行。
+4. 將`file_operation.bat`放到有pdf的文件夾目錄下。雙點`file_operation.bat`，程式就會執行。
+
+工作辛苦了～加油！ ``\(^o^)/``
+有問題請聯繫嘉尹：candy23198@gmail.com
