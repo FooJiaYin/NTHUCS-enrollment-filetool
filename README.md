@@ -11,10 +11,12 @@
 
 2. 複製Command中的資料（D:F 從ren開始）
 **行數不夠可以增加
+
 ![](https://i.imgur.com/MeyLy1h.png)
 
 
 3. 按右鍵**編輯** `file_operation.bat`，在`:: Rename ::`底下貼上資料
+
 ![](https://i.imgur.com/XUPxYpR.png) ![](https://i.imgur.com/ko19AdY.png) ![](https://i.imgur.com/ihApnbc.png)
 
 儲存並關閉。
